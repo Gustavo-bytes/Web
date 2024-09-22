@@ -1,0 +1,62 @@
+
+
+
+.centralizado{
+    text-align: center;
+    color:white
+}
+
+.tabelacentralizada {
+    margin: auto;
+    width: 80%;
+    color: black /* Cor do texto */
+    /*background-color:white; /* Cor de fundo da tabela 
+    border-collapse: collapse; /* Faz com que as bordas das células se colapsem */
+}
+
+.tabelacentralizada th, .tabelacentralizada td {
+    padding: 10px;
+    border: 1px solid #ccc; /* Cor da borda das células */
+    background-color: rgba(255, 255, 255, 0.8); /* Cor de fundo das células */
+}
+
+.textovermelho{
+    color:red;
+}
+
+.imagemcentralizada{
+    display:block;
+    margin: auto;
+}
+
+.fundo{
+    background-image: url('https://png.pngtree.com/thumb_back/fw800/background/20231002/pngtree-illustration-of-web-development-computer-code-on-laptop-screen-image_13574062.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+ .texto{
+    color:white
+ }
+
+ .textoverde{
+    color:rgb(106, 207, 5) 
+ }
+
+.fundoprocessadores{
+    background-image: url('https://dicas.olx.com.br/wp-content/uploads/2024/03/tipos-de-processadores-notebook-1.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+.centralizado1{
+    text-align: center;
+    color:red
+
+}
+.centralizado2{
+    text-align: center;
+    color:white
+
+}
